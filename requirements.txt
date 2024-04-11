@@ -8,3 +8,4 @@ soundfile==0.12.1
 keras==3.2.1
 gTTS==2.5.1
 Pillow==9.4.0
+pydub==0.25.1
